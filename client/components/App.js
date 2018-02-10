@@ -1,6 +1,6 @@
 const App = () => {
 	return (
-		<h2>Hello componenets</h2>
+		<h2>Hello components</h2>
 	);
 };
 
